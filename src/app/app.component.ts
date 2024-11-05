@@ -11,3 +11,4 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   title = 'secondangularproject';
 }
+// root compnet for the application
